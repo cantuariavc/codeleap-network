@@ -1,0 +1,26 @@
+[
+  {
+    "model": "career.career",
+    "fields": {
+      "username": "ana",
+      "title": "Desenvolvedora Backend",
+      "content": "Tenho experiência com Django e REST APIs."
+    }
+  },
+  {
+    "model": "career.career",
+    "fields": {
+      "username": "joao",
+      "title": "Frontend React",
+      "content": "Crio interfaces modernas e responsivas usando React."
+    }
+  },
+  {
+    "model": "career.career",
+    "fields": {
+      "username": "maria",
+      "title": "Engenheira de Dados",
+      "content": "Trabalho com Python, SQL e pipelines de dados."
+    }
+  }
+]
